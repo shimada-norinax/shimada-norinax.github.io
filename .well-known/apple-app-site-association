@@ -1,13 +1,10 @@
 {
   "applinks": {
+    "App": [], 
     "details": [
       {
-        "appIDs": ["J84VQYT5V5.jp.norinax.wizapp.demo"],
-        "components": [
-          {
-            "/": "/app/*"
-          }
-        ]
+        "appID": "J84VQYT5V5.jp.norinax.wizapp.demo",
+        "paths": ["/app/*"]
       }
     ]
   }
